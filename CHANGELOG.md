@@ -1,6 +1,10 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/laravel/compare/v13.10.1...13.x)
+## [Unreleased](https://github.com/laravel/laravel/compare/v13.11.0...13.x)
+
+## [v13.11.0](https://github.com/laravel/laravel/compare/v13.10.1...v13.11.0) - 2026-09-30
+
+* Use a different default lock directory for the file cache driver by [@CasEbb](https://github.com/CasEbb) in https://github.com/laravel/laravel/pull/6871
 
 ## [v13.10.1](https://github.com/laravel/laravel/compare/v13.10.0...v13.10.1) - 2026-08-25
 

@@ -18,6 +18,6 @@
         @endif
     </head>
     <body >
-        <div> Halo Belajar Docker </div>
+        <div> Halo Versi 2 </div>
     </body>
 </html>
